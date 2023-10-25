@@ -1,4 +1,4 @@
-<h1 align="center">Dasol</h1>
+<h1 align="center">Hello, I'm Dasol Kang</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dasolss&label=Profile%20views&color=0e75b6&style=flat" alt="Dasolss" /> </p>
 
